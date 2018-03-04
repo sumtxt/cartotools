@@ -1,0 +1,11 @@
+Package: cartotools
+Title: Helpful functions for working with GIS data
+Version: 0.0.0.9000
+Author: Moritz Marbach" <moritz.marbach@gess.ethz.ch [aut, cre]
+Maintainer: Moritz Marbach <moritz.marbach@gess.ethz.ch>
+Description: Helps me.
+Depends: R (>= 3.4.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
